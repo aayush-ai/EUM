@@ -1,7 +1,7 @@
 
 ## Introduction
 
-There are three main components of the Startereum platform: the Crypto-EUM Game, the home page, and the user profile and portfolio.
+There are three main components of the Startereum platform: the Crypto-EUM Game, the home page, and the user profile and portfolio. Please find the [project tracker here](https://docs.google.com/spreadsheets/d/1q2Q-fAwXZwNq3I5TCIq9MxwBq4aZEMLMk7bBZK6AVrk/edit?usp=sharing) and [wireframes here](https://pr.to/29O4W7/). 
 
 ### The Crypto-EUM Game 
 
