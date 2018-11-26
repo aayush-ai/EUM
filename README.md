@@ -3,7 +3,7 @@
 
 There are three main components of the Startereum platform: the Crypto-EUM Game, the home page, and the user profile and portfolio.
 
-# The Crypto-EUM Game -
+### The Crypto-EUM Game -
 
 _Users play a 5 minute game-set consisting of 3 types of games- Staking, Trivia & Mining and win tokens based on their success in each type of game. 
 _Everyday a game-set runs for 24 hours before the results are declared and token awarded. 
@@ -12,12 +12,12 @@ _A players can join a game-set at any point before the end of 24 hours. This is 
 _This game will test your skill in value-based crypto investing, where you are shown two anonymized projects with key dimensions of their project, and are required to pick one and stake some tokens to back your claim. 
 _You will get an immediate result to signal your current standing basis current stakes, and a final results at the end of 24 hours.
 
-# The Home Page - Posts and Updates, Ranking Side-bar, and Leaderboard side-bar
+### The Home Page - Posts and Updates, Ranking Side-bar, and Leaderboard side-bar
 
-# User Profile - My Activity, My Wallet, My Portfolio
+### User Profile - My Activity, My Wallet, My Portfolio
 
 
-# Installation
+## Installation
 
 1. Install Truffle globally.
     ```javascript
