@@ -1,10 +1,3 @@
-# Crypto-EUM - A game to discover interesting token projects 
-
-This repository holds the latest documentation on the Startereum project. The project seeks to help crypto-investors and crypto-enthusiasts discover impact-oriented token projects via a fun game. 
-
-Link to Wireframes: https://pr.to/29O4W7/
-Link to Project Tracker: https://goo.gl/PDb2VW
-Link to Website: www.startereum.com
 
 ## Installation
 
@@ -34,6 +27,3 @@ Link to Website: www.startereum.com
     // Serves the front-end on http://localhost:3000
     npm run dev
     ```
-
-
-
