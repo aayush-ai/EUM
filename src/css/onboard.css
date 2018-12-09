@@ -18,9 +18,12 @@
     display: flex;
     justify-content: center;
    }
-.carousel {
-    border: 20px solid #ddd;
-}
+   .onboard_content .carousel .carousel-inner .carousel-item img{
+       border: 20px solid #ddd;
+   }
+   .onboard_content .carousel-caption {position: static;}
+   .onboard_content .carousel-caption h3 {margin: 0; padding: 0;color:#000;}
+   .onboard_content .carousel-caption p {margin: 0; padding: 0;}
 .sign_up {
     height: 100%;
     display: flex;
@@ -87,3 +90,7 @@
   
 }
 /*==================end login =====================*/
+
+.errorMsg {
+    color: red;
+}
