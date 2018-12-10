@@ -1,0 +1,96 @@
+/*================== onboard_home =====================*/
+.onboard{
+    max-width: 1920px;
+    width: 100%;
+}
+.onboard_content {
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+}
+.onboard p {
+    text-align: center;
+    padding: 28px 0;
+    font-size: 35px;
+    font-weight: 600;
+}
+.banner {
+    display: flex;
+    justify-content: center;
+   }
+   .onboard_content .carousel .carousel-inner .carousel-item img{
+       border: 20px solid #ddd;
+   }
+   .onboard_content .carousel-caption {position: static;}
+   .onboard_content .carousel-caption h3 {margin: 0; padding: 0;color:#000;}
+   .onboard_content .carousel-caption p {margin: 0; padding: 0;}
+.sign_up {
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+.sign_up-btn {height: 70%;width: 80%;display: flex;align-items: center;border-left: 1px solid; padding-left: 77px;}
+
+.box_2_content {
+   width: 60%;
+    height:150px;
+    background-color: #ddd;
+}
+
+.box_2 {
+    display: flex;
+    justify-content: center;
+    width: 58%;
+    text-align: center;
+    padding: 50px;
+}
+.btn {
+    text-transform: capitalize;
+    font-size: 25px !important;
+    padding: 5px 35px !important;
+    margin-right: 10px;
+}
+.carousel-caption p{
+    color: #000;
+}
+@media (max-width:991px){
+    .onboard p {
+        font-size: 27px;
+        padding: 20px;
+}
+}
+/*==================End of onboard_home =====================*/
+
+
+/*==================Start sign_up =====================*/
+.sign_up_control {
+    margin-top: 10px;
+    background-color: #eee !important;
+    border: 0 !important;
+    padding: 1.5rem .75rem !important;
+    font-size: 20px !important;
+    width: 75% !important;
+    
+}
+.btn-info_signup {
+    margin-top: 10px;
+}
+/*==================end sign_up =====================*/
+
+
+/*==================Start login =====================*/
+
+.sign_in_form {
+     width: 100% !important; 
+}
+.btn-info_sign_in {
+    display: block !important;
+    margin-top: 10px !important;
+    width: 50% !important;
+  
+}
+/*==================end login =====================*/
+
+.errorMsg {
+    color: red;
+}
